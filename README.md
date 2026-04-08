@@ -7,9 +7,9 @@ Freelancer
 Career changer turned Front-End Enthusiast. Over the last 12 months, I’ve transitioned from translating languages to 'translating' user needs into functional code. With a solid foundation in JavaScript and a background in Quality Assurance, I bridge the gap between technical precision and great user experience. Ready to contribute to building the future in Software development.
 
 * 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [My resume](http://curriculum-vitae-three-chi.vercel.app)
+* 🖥️  See my portfolio at <a href="http://curriculum-vitae-three-chi.vercel.app" target="_blank">My resume</a>
 * ✉️  You can contact me at [kop1989@icloud.com](mailto:kop1989@icloud.com)
-* 🚀  I'm currently working on [ChatApp](http://my-chat-love.onrender.com)
+* 🚀  I'm currently working on <a href="http://my-chat-love.onrender.com" target="_blank">ChatApp</a>
 * 🧠  I'm currently learning React
 * 👥  I'm looking to collaborate on Web Development Projects
 * 💬  Ask me about I'm Nepalese who is living in Thailand.
