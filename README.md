@@ -30,7 +30,6 @@ Career changer turned Front-End Enthusiast. Over the last 12 months, I’ve tran
 <a href="https://www.freecodecamp.org/certification/kapil_maharjan/javascript-v9" target="_blank">JavaScript</a>
     </li>
 </ol>
-### Badges
 
 <b>My GitHub Stats</b>
 
